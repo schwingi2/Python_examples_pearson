@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "testapplications_pearson", "testapplications_pearson\testapplications_pearson.pyproj", "{247E3EB6-5340-45DA-AF63-EF6ACC0E3075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247E3EB6-5340-45DA-AF63-EF6ACC0E3075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247E3EB6-5340-45DA-AF63-EF6ACC0E3075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BC2B92F-E37B-408C-B733-FD6636246A6D}
+	EndGlobalSection
+EndGlobal
